@@ -1,0 +1,22 @@
+html{
+    background-color: #213555;
+    color: #F5EFE7;
+    font-family: "Roboto Mono";
+}
+div{
+    width : 50%;
+    margin-left: 25%;
+}
+img{
+    width : 50%;
+    margin-left: 25%;
+}
+a[href]{
+    color: #D8C4B6;
+}
+header{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
